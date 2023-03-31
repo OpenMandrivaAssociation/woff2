@@ -10,7 +10,7 @@
 Name:		woff2
 Summary:	Library for handling fonts in the WOFF 2.0 format
 Version:	1.0.2
-Release:	1
+Release:	2
 Group:		System/Libraries
 URL:		https://github.com/google/woff2
 Source0:	https://github.com/google/woff2/archive/v%{version}/%{name}-%{version}.tar.gz
